@@ -2,39 +2,48 @@
  [ 
 { 
 "cat_name":"தெனாலிராமன் கதைகள்",
-"cat_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/1280x720-7Lb_orginal_sketch.jpg" 
+"cat_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/1280x720-7Lb_orginal_sketch.jpg" ,
+ "color_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/1280x720-7Lb.jpg"
 },
 
  { 
 "cat_name":"அக்பர் மற்றும் பீர்பால் கதைகள் ",
- "cat_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/akbar.jpg" 
+ "cat_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/akbar.jpg" ,
+   "color_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/akbar-birbal-questions-676x284.jpg"
 },
  { 
 "cat_name":"முல்லா கதைகள்",
- "cat_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/mulla.jpg" 
+ "cat_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/mulla.jpg" ,
+   "color_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/maxresdefault.jpg"
 },
  {
  "cat_name":"விக்ரமாதித்தன் கதைகள் ",
- "cat_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/maxresdefault-10_orginal_sketch.jpg" 
+ "cat_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/maxresdefault-10_orginal_sketch.jpg" ,
+   "color_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/maxresdefault-10.jpg"
 },
  {
  "cat_name":"பாட்டி சொன்ன கதைகள் ",
- "cat_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/Moral_Stories_of_Grandma_800_NovelticIndia-800x800_orginal_sketch.jpg" 
+ "cat_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/Moral_Stories_of_Grandma_800_NovelticIndia-800x800_orginal_sketch.jpg",
+   "color_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/Moral_Stories_of_Grandma_800_NovelticIndia-800x800.jpg"
 },
  {
  "cat_name":"பஞ்சதந்திர கதைகள் ",
- "cat_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/Monkey-And-Crocodile-810x456_orginal_sketch.jpg" 
+ "cat_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/Monkey-And-Crocodile-810x456_orginal_sketch.jpg" ,
+   "color_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/Monkey-And-Crocodile-810x456.jpg"
 },
  {
  "cat_name":"வன விலங்கு கதைகள்",
- "cat_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/Animal-Stories-For-Your-Kids_orginal_sketch.jpg"
+ "cat_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/Animal-Stories-For-Your-Kids_orginal_sketch.jpg",
+   "color_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/Animal-Stories-For-Your-Kids.jpg"
  },
  { "cat_name":"நீதிக்கதைகள் ",
- "cat_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/egg-752x440_orginal_sketch.jpg"
+ "cat_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/egg-752x440_orginal_sketch.jpg",
+   "color_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/egg-752x440.jpg"
  },
  {
  "cat_name":"சிறுகதைகள்",
- "cat_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/short_orginal_sketch.jpg" 
+ "cat_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/short_orginal_sketch.jpg" ,
+   "color_image":"https://raw.githubusercontent.com/lavanyaarul/abcdefghij/master/short.jpg"
 }
  ]
  }
