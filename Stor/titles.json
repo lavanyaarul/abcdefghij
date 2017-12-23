@@ -1,0 +1,528 @@
+{
+"தெனாலிராமன் கதைகள்":[
+{
+"title_name":"1.காளியிடம் வரம் பெற்ற கதை",
+"title_image":""
+},
+{
+"title_name":"2.ராஜகுருவின் நட்பு",
+"title_image":""
+},
+{
+"title_name":" 3.வித்தைக்காரனை வென்ற கதை",
+"title_image":""
+},
+{
+"title_name":"4.நஷ்டத்தை லாபமாக்கிய குதிரை",
+"title_image":""
+},
+{
+"title_name":"5.ராஜகுருவை பழிக்குப் பழி வாங்குதல்",
+"title_image":""
+},
+{
+"title_name":" 6.கூனனை ஏமாற்றிய கதை",
+"title_image":""
+},
+{
+"title_name":" 7.பாத்திரங்கள் குட்டி போட்ட கதை",
+"title_image":""
+},
+{
+"title_name":" 8.டில்லி அரசரை வென்ற கதை ",
+"title_image":""
+},
+{
+"title_name":"9.கிடைத்ததில் சம பங்கு",
+"title_image":""
+},
+{
+"title_name":"10.சோதிடனைக் கொன்ற கதை",
+"title_image":""
+},
+{
+"title_name":"11.சூடு பட்ட புரோகிதர்கள் ",
+"title_image":""
+},
+{
+"title_name":"12.வைத்திய செலவு",
+"title_image":""
+},
+{
+"title_name":"13.அதிசயக்குதிரை ",
+"title_image":""
+},
+{
+"title_name":"14.நீர் இறைத்த திருடர்கள் ",
+"title_image":""
+},
+{
+"title_name":"15.புலவரை வென்ற தெனாலிராமன் ",
+"title_image":""
+},
+{
+"title_name":"16.பிறந்த நாள் பரிசு",
+"title_image":""
+},
+{
+"title_name":"17.அரசியின் கொட்டாவி ",
+"title_image":""
+},
+{
+"title_name":"18.இராஜாங்க விருந்து",
+"title_image":""
+}
+],
+"அக்பர் மற்றும் பீர்பால் கதைகள் ":[
+{
+"title_name":"1.ஆந்தைகளின் மொழி",
+"title_image":""
+},
+{
+"title_name":"2.சிறிய தவறும் பெரிய தண்டனையும்! ",
+"title_image":""
+},
+{
+"title_name":"3.பீர்பாலின் புத்திசாலித்தனம் ",
+"title_image":""
+},
+{
+"title_name":"4.சிறந்த ஆயுதம்",
+"title_image":""
+},
+{
+"title_name":"5.கிணற்றுக்குள் வைர மோதிரம் ",
+"title_image":""
+},
+{
+"title_name":"6.நெய் டப்பாவில் பொற்காசு ",
+"title_image":""
+},
+{
+"title_name":"7.அறிவுப் பானை",
+"title_image":""
+},
+{
+"title_name":"8.முத்திரை மோதிரத்தின் மகிமை ",
+"title_image":""
+},
+{
+"title_name":" 9.குளிரில் நின்றால் பரிசு ",
+"title_image":""
+},
+{
+"title_name":"10.விலைமதிப்புள்ள பொருள் ",
+"title_image":""
+},
+{
+"title_name":"11.கதைகள் பொற்காசுகளை திருடிய செல்வந்தர் ",
+"title_image":""
+},
+{
+"title_name":"12.யாருக்கு மரண தண்டனை? ",
+"title_image":""
+},
+{
+"title_name":"13.சத்திரம்",
+"title_image":""
+},
+{
+"title_name":"14.வெயிலும், நிழலும் ",
+"title_image":""
+},
+{
+"title_name":" 15.மக்கள் நேர்மையானவர்களா? ",
+"title_image":""
+},
+{
+"title_name":"16.குழந்தையின் அழுகை ",
+"title_image":""
+},
+{
+"title_name":"17.காவல்காரர்கள் பெற்ற பரிசு ",
+"title_image":""
+},
+{
+"title_name":"18.அபசகுனம்",
+"title_image":""
+}
+],
+"முல்லா கதைகள் ":[
+{
+"title_name":"1.முல்லாவின் புத்திசாலித்தனம்",
+"title_image":""
+},
+{
+"title_name":"2.முல்லாவும் மூன்று அறிஞர்களும் ",
+"title_image":""
+},
+{
+"title_name":"3.குட்டி போட்ட பாத்திரம் ",
+"title_image":""
+},
+{
+"title_name":"4.மீன் பிடித்த முல்லா ",
+"title_image":""
+},
+{
+"title_name":"5.முல்லாவின் உயில் ",
+"title_image":""
+},
+{
+"title_name":"6.முல்லாவின் உடைவாள்",
+"title_image":""
+},
+{
+"title_name":"7.தளபதியின் சமரசம் ",
+"title_image":""
+},
+{
+"title_name":"8.மன்னின் மதிப்பு ",
+"title_image":""
+},
+{
+"title_name":"9.ஒரு நல்ல செய்தி ",
+"title_image":""
+},
+{
+"title_name":"10.வெற்றியின் ரகசியம்",
+"title_image":""
+},
+{
+"title_name":"11. நம்பிக்கை மோசம்",
+"title_image":""
+},
+{
+"title_name":"12. தலையில் விழுந்த பழம்",
+"title_image":""
+},
+{
+"title_name":"13. முல்லாவிடம் இருந்த சக்தி",
+"title_image":""
+},
+{
+"title_name":"14. அலட்சியத்துக்குக் கிடைத்த பரிசு",
+"title_image":""
+},
+{
+"title_name":"15. முல்லாவின் அறிவாற்றல்",
+"title_image":""
+},
+{
+"title_name":"16. சூடான சூப்",
+"title_image":""
+},
+{
+"title_name":"17. முல்லா வாங்கிய கழுதை",
+"title_image":""
+},
+{
+"title_name":"18. மகிழ்ச்சியின் எல்லை",
+"title_image":""
+}
+],
+"பஞ்சதந்திர கதைகள்":
+  [
+{
+"title_name":"1.கதை பிறந்த கதை",
+"title_image":""
+},
+{
+"title_name":"2.நண்டு, கொக்கைக் கொன்ற கதை",
+"title_image":""
+}
+,
+{
+"title_name":"3.காக்கை, பாம்பைக் கொன்ற கதை",
+"title_image":""
+},
+{
+"title_name":"4.மூளை இல்லாத கழுதை",
+"title_image":""
+},
+{
+"title_name":"5.ஆமையும் இரண்டு வாத்துகளும்",
+"title_image":""
+},
+{
+"title_name":"6.முட்டாள் சிங்கமும் புத்திசாலி முயலும்",
+"title_image":""
+},
+{
+"title_name":"7.உப்பு வியாபாரியும் கழுதையின் தந்திரமும்",
+"title_image":""
+},
+{
+"title_name":"8.ராஜாவும் முட்டாள் குரங்கும்",
+"title_image":""
+},
+{
+"title_name":"9.சிலந்தியிடம் பாடம் கற்ற அரசன்",
+"title_image":""
+},
+{
+"title_name":"10.முட்டாளுக்கு புத்தி சொல்வது வீண்",
+"title_image":""
+},
+{
+"title_name":"11.பேராசையால் உயிரிழந்த கொக்கு",
+"title_image":""
+},
+{
+"title_name":"12.நன்றி மறந்த சிங்கம்",
+"title_image":""
+},
+{
+"title_name":"13.நன்றி ஓடுகளே",
+"title_image":""
+},
+{
+"title_name":"14.ஆப்பு அசைத்து இறந்த குரங்கின் கதை",
+"title_image":""
+},
+{
+"title_name":"15.மான், காகம், நரி – கதை",
+"title_image":""
+}
+,
+{
+"title_name":"16.புலியை நம்பிய பிராமணன் கதை",
+"title_image":""
+},
+{
+"title_name":"17.உடைந்த பானை",
+"title_image":""
+},
+{
+"title_name":"18.வேஷம் போட்ட கழுதை",
+"title_image":""
+}
+
+],
+  "சிறுகதைகள்":
+[
+{
+"title_name":"பெண்மையும் மென்மையும்",
+"title_image":""
+},
+{
+"title_name":"புத்திசாலி சகோதரர்கள்",
+"title_image":""
+},
+{
+"title_name":"ராமுவின் துப்பறியும் மூளை",
+"title_image":""
+},
+{
+"title_name":"உயிர்காப்பான் தோழன்",
+"title_image":""
+},
+{
+"title_name":"மதுரைக்காரக் குதிரைக்காரன்",
+"title_image":""
+},
+{
+"title_name":"உருவு கண்டு எள்ளாமை வேண்டும்",
+"title_image":""
+},
+{
+"title_name":"கேடயம் அதிலோர் ஓவியம்",
+"title_image":""
+},
+{
+"title_name":"உருவம் கண்டு யாரையும் எடை போடாதே",
+"title_image":""
+}
+,
+{
+"title_name":"நீ ஒருவரை ஏமாற்றினால், நீயும் ஒரு நாள் ஏமாறுவாய் !!",
+"title_image":""
+},
+{
+"title_name":"வம்பை விலைக்கு வாங்கிய அரண்மனை அதிகாரி",
+"title_image":""
+},
+{
+"title_name":"பூக்களுக்கும் போட்டி உண்டு",
+"title_image":""
+},
+{
+"title_name":"சிவப்பு மலை!",
+"title_image":""
+},
+{
+"title_name":"ஆற்றில் போட்டாலும் அளந்து போடு",
+"title_image":""
+},
+{
+"title_name":"புதியதாக வந்த நட்பும்,உதவியும்",
+"title_image":""
+},
+{
+"title_name":"குடியானவனின் யோசனை",
+"title_image":""
+}
+,
+{
+"title_name":"மாசிலாபுரத்து கிணற்று நீர்",
+"title_image":""
+},
+{
+"title_name":"எலுமிச்சம்பழத்தின் ஆசை",
+"title_image":""
+},
+{
+"title_name":"அன்புதான் இன்ப ஊற்று !",
+"title_image":""
+}
+],
+  "பாட்டி சொன்ன கதைகள்":[
+{
+"title_name":"1.பறவைக்கு வந்த பகுத்தறிவு",
+"title_image":""
+},
+{
+"title_name":"2.புத்திசாலி ஆட்டுக்குட்டி",
+"title_image":""
+},
+{
+"title_name":"3.உண்மை",
+"title_image":""
+},
+{
+"title_name":"4.மகிழ்ச்சிக்கு வழி",
+"title_image":""
+},
+{
+"title_name":"5.தலைவன்",
+"title_image":""
+},
+{
+"title_name":"6.குதிரையும் கொடுத்தான்",
+"title_image":""
+},
+{
+"title_name":"7.கர்வம்",
+"title_image":""
+},
+{
+"title_name":"8.நாங்களும் நல்லவர்களே",
+"title_image":""
+},
+
+{
+"title_name":"10.விதைப்பு",
+"title_image":""
+},
+{
+"title_name":"11.கிழவிக்கு_பயந்துகொண்டு போகும்_பெருமாள்",
+"title_image":""
+},
+{
+"title_name":"12.பறக்க ஆசைப்பட்ட செடியன்",
+"title_image":""
+},
+{
+"title_name":"13.கெடுவான் கேடு நினைப்பான்",
+"title_image":""
+},
+{
+"title_name":"14.உதைத்த காலுக்கு முத்தம்",
+"title_image":""
+},
+{
+"title_name":"15.ஜராசந்தன் ஏமாறுதல்",
+"title_image":""
+},
+{
+"title_name":"16.வெற்றிக் களிப்பு வெகுநேரம் நிலைக்காது",
+"title_image":""
+},
+{
+"title_name":"17.இனிப்பா உப்பா",
+"title_image":""
+},
+{
+"title_name":"18.மடப்பயலே",
+"title_image":""
+},
+    {
+"title_name":"19.எதுவும் நமக்கு சொந்தம் இல்லை",
+"title_image":""
+},
+],
+  "விக்கிரமாதித்தன் வேதாளம் கதைகள் ": [
+    {
+      "title_name": "1.வீரபாகுவின் பெருந்தன்மை",
+      "title_image": ""
+    },
+    {
+      "title_name": "2.சாப விமோசனம்",
+      "title_image": ""
+    },
+    {
+      "title_name": "3.கடுமையான முயற்சி",
+      "title_image": ""
+    },
+    {
+      "title_name": "4.நம்பமுடியாத உண்மை",
+      "title_image": ""
+    },
+    {
+      "title_name": "5.குணசேகரின் கதை",
+      "title_image": ""
+    },
+    {
+      "title_name": "6.சுயநலத்தின் விளைவு",
+      "title_image": ""
+    },
+    {
+      "title_name": "7.ராமு சுயநலவாதியா?",
+      "title_image": ""
+    },
+    {
+      "title_name": "8,வாரிசாகத் தகுதியானவன் யார் ?",
+      "title_image": ""
+    },
+    {
+      "title_name": "9.சேனாதிபதி பதவிக்கு தகுதியானவன் யார்?",
+      "title_image": ""
+    },
+    {
+      "title_name": "10.புரிந்து கொள்ளாத மக்கள்",
+      "title_image": ""
+    },
+    {
+      "title_name": "11.குருவுக்கு காணிக்கை",
+      "title_image": ""
+    },
+    {
+      "title_name": "12.பூலோகத்தில் கந்தர்வப் பெண்",
+      "title_image": ""
+    },
+    {
+      "title_name": "13.நாகரத்தினத்தை திருடியது நியாயமா?",
+      "title_image": ""
+    },
+    {
+      "title_name": "14.நல்ல பகைவன்",
+      "title_image": ""
+    },
+    {
+      "title_name": "15.செல்வம் வேண்டாமா?",
+      "title_image": ""
+    },
+    {
+      "title_name": "16.கந்தர்வனின் சாபம்",
+      "title_image": ""
+    },
+    {
+      "title_name": "17.கடல்கன்னியை சிறைவைத்த மன்னன்",
+      "title_image": ""
+    },
+    {
+      "title_name": "18.கடல்கன்னி ஹிசிகா",
+      "title_image": ""
+    }
+  ]
+}
